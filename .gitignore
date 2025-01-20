@@ -5,3 +5,4 @@ prisma/migrations
 swagger-output.json
 musics/
 images/
+logs.log
